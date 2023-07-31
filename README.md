@@ -12,6 +12,6 @@ In this I took my personal bank account data to analyze, It is the year of April
 
  - Closing Balance: Closing balsnce on that date(Transaction)
 
- - Month	: I used formaula in excel<<That you can fatch from the date column>>
+ - Month	: I used formaula in excel<That you can fatch from the date column>
 
- - Year: I used formaula in excel<<That you can fatch from the date column>>
+ - Year: I used formaula in excel<That you can fatch from the date column>
