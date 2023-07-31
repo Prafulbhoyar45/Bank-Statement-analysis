@@ -5,8 +5,13 @@ In this I took my personal bank account data to analyze, It is the year of April
  - date: This column contain the date of transaction.
 
  - narration: This column contain the information about the Tharnsaction party.
-Withdrawal Amt.: The ammout that I Withdrawal from the account.
-Deposit Amt.: 	The ammout that I Deposit from the account.
-Closing Balance: Closing balsnce on that date(Transaction)
-Month	: I used formaula in excel<<That you can fatch from the date column>>
-Year: I used formaula in excel<<That you can fatch from the date column>>
+
+ - Withdrawal Amt.: The ammout that I Withdrawal from the account.
+
+ - Deposit Amt.: 	The ammout that I Deposit from the account.
+
+ - Closing Balance: Closing balsnce on that date(Transaction)
+
+ - Month	: I used formaula in excel<<That you can fatch from the date column>>
+
+ - Year: I used formaula in excel<<That you can fatch from the date column>>
