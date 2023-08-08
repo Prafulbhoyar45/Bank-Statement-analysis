@@ -15,3 +15,5 @@ In this I took my personal bank account data to analyze, It is the year of April
  - Month	: I used formaula in excel (That you can fatch from the date column)
 
  - Year: I used formaula in excel (That you can fatch from the date column)
+
+# There two of my bank statement one from HDFC and anathor is from Union Bank of India
